@@ -1,0 +1,93 @@
+body{
+    background-color: #B3B3B3;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 10px;
+    background-color: black;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    background-color: #BB00E0;
+    border-radius: 12px;
+}
+
+h1{
+  color: #BB00E0;
+  font-family: "Caesar Dressing", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 20px;
+}
+
+li{
+    list-style: none;
+}
+
+.menu{
+    display: flex;
+    gap: 15px;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.menu, li {
+    margin-left: 10px;
+}
+
+.logo{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.logo img {
+    border: 13px solid;
+    color: #4C007E;
+}
+
+.logo h1{
+    position: absolute;
+    font-size: 128px;
+}
+
+.cards{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+    gap: 130px;
+    padding-bottom: 30px;
+}
+
+.card1{
+    border: 15px solid;
+    color: black;
+}
+
+.card2{
+    border: 15px solid;
+    color: #D9D9D9;
+}
+
+.card3{
+    border: 15px solid;
+    color: #BB00E0;
+}
+
+footer{
+    padding: 1px 8px;
+    background-color: #4C007E;
+}
+
+h2{
+    font-size: 20px;
+}

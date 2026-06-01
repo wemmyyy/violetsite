@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #4C007E;
+    box-sizing: border-box;
+    padding-top: 30px;
+}
+
+.tela {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+  }
+
+.esquerda{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+}
+
+.direita{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 375px;
+    height: 500px;
+    padding: 35px;
+    background-color: #B3B3B3;
+    border-radius: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: "Gluten", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h1{
+    word-break: break-all;
+    font-size: 30px;
+    color: white;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
