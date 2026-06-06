@@ -1,3 +1,3 @@
 # violet
 
-https://wemmyyy.github.io/violet/
+https://wemmyyy.github.io/violetsite/
